@@ -23,5 +23,5 @@ Adds caret (^) notation handling for Gravity Forms calculation fields
 
 ### Using FTP
 
-2. Upload the entire `gravity-forms-exponents` folder to the `/wp-content/plugins/` directory.
+2. Upload the entire `gravityforms-exponents` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
